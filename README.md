@@ -1,5 +1,5 @@
 
-# TorchAdapt: Towards Light-Agnostic Real-Time Visual Perception
+# Towards Light-Agnostic Real-Time Visual Perception
 
 This repository provides a information about installation and running the configs to train and reproduce the results.
 ## Table of Contents
